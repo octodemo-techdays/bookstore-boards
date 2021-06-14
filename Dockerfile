@@ -1,7 +1,7 @@
 FROM jetty:9.4-jre11-slim
 
 ARG REPOSITORY_NAME=octodemo/template-bookstore-v2
-ARG VERSION=0.0.0-SNAPSHOT
+ARG VERSION=0.0.0-ADOBoards
 ARG revision=unknown
 ARG repo_url=http://github.com/${REPOSITORY_NAME}
 
